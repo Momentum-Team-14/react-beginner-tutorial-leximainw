@@ -20,6 +20,16 @@ button {
   font-size: 20px;
 }
 
+.button-flex {
+  display: flex;
+  flex-wrap: wrap;
+  width: 48rem;
+}
+
+.button-flex button {
+  width: calc(25% - 10px);
+}
+
 .black {
   background-color: black;
   color: white;
