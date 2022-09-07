@@ -25,12 +25,12 @@ button {
   color: white;
 }
 
-.blue {
-  background-color: blue;
-  color: white;
-}
-
 .yellow {
   background-color: yellow;
   color: black;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
 }
